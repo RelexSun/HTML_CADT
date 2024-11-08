@@ -1,0 +1,42 @@
+* {
+  margin: 0;
+  padding: 0;
+  box-sizing: border-box;
+}
+
+body {
+  background: grey;
+  font-family: sans-serif;
+  width: 100vw;
+  height: 100vh;
+  margin: 0 auto;
+  padding: 100px;
+}
+
+div {
+  background-color: aliceblue;
+  padding: 20px;
+  border-radius: 10px;
+  margin-bottom: 30px;
+}
+
+button {
+  margin-top: 15px;
+  border-radius: 30px;
+  padding: 10px;
+  border: none;
+}
+
+#button1 {
+  color: aliceblue;
+  background-color: green;
+}
+
+#button2 {
+  background-color: orange;
+}
+
+#button3 {
+  color: aliceblue;
+  background-color: purple;
+}
