@@ -1,0 +1,21 @@
+body {
+  padding: 0 10em;
+}
+
+.container {
+  display: flex;
+  flex-direction: column;
+  gap: 1em;
+}
+
+header {
+  flex-grow: 1;
+}
+
+main {
+  flex-grow: 2;
+}
+
+footer {
+  flex-grow: 1;
+}
